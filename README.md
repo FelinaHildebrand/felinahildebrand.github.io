@@ -1,2 +1,2 @@
 # felinahildebrand.github.io
-Repository containing the code and data for my personal website at [felinahildebrand.github.io](https://felinahildebrand.github.io)
+This is the repository for my website at [felinahildebrand.github.io](https://felinahildebrand.github.io)
